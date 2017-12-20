@@ -1,3 +1,5 @@
+### 喜欢的话点个start吧
+
 ### [追书神器（一）—Scrapy入门](https://yanyezhang.github.io/2017/12/19/Scrapy%E5%85%A5%E9%97%A8%E5%AE%9E%E7%8E%B0%E2%80%94%E6%87%92%E4%BA%BA%E8%BF%BD%E4%B9%A6/)
 * 运行脚本可以抓取指定的url上的最新小说
 * 过滤掉无用标签和信息
