@@ -8,7 +8,8 @@
 import scrapy
 
 
-class NovelscrawlerItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
+class NovelsrawlerItem(scrapy.Item):
+    title = scrapy.Field()
+    article = scrapy.Field()
+    file_format = scrapy.Field()
     pass

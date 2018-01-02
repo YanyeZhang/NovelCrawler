@@ -11,8 +11,8 @@ import os
 
 #execute(["scrapy","crawl","novel"])
 
-execute(["scrapy","crawl","novel","-o","quotes.json"])
-# execute(["scrapy","crawl","novel","-s", "LOG_ENABLED=False"])
+execute(["scrapy","crawl","novel","-a","tag=一念永恒"])
+#execute(["scrapy","crawl","novel","-s", "LOG_ENABLED=False"])
 
 
 # encoding:UTF-8
